@@ -79,10 +79,6 @@
         {
             "image_file": "Square_Color.png",
             "emojis": ["🌕"]
-        },
-        {
-            "image_file": "Unison.png",
-            "emojis": ["😡"]
         }]
     }]
 }

@@ -55,7 +55,6 @@
 		E9972CA62192F04A000DE65A /* Black_Sweat.png in Resources */ = {isa = PBXBuildFile; fileRef = E9972CA12192F04A000DE65A /* Black_Sweat.png */; };
 		E9972CA72192F04A000DE65A /* Black_Sunglasses.png in Resources */ = {isa = PBXBuildFile; fileRef = E9972CA22192F04A000DE65A /* Black_Sunglasses.png */; };
 		E9972CA82192F04A000DE65A /* Black_Hearteye.png in Resources */ = {isa = PBXBuildFile; fileRef = E9972CA32192F04A000DE65A /* Black_Hearteye.png */; };
-		E99D0757218FE4CB00A9BFCD /* Unison.png in Resources */ = {isa = PBXBuildFile; fileRef = E99D0756218FE4CB00A9BFCD /* Unison.png */; };
 		E9A156D2219325D70040ACF1 /* Black_Angry.png in Resources */ = {isa = PBXBuildFile; fileRef = E9A156D1219325D70040ACF1 /* Black_Angry.png */; };
 /* End PBXBuildFile section */
 
@@ -137,7 +136,6 @@
 		E9972CA12192F04A000DE65A /* Black_Sweat.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Black_Sweat.png; sourceTree = "<group>"; };
 		E9972CA22192F04A000DE65A /* Black_Sunglasses.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Black_Sunglasses.png; sourceTree = "<group>"; };
 		E9972CA32192F04A000DE65A /* Black_Hearteye.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Black_Hearteye.png; sourceTree = "<group>"; };
-		E99D0756218FE4CB00A9BFCD /* Unison.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Unison.png; sourceTree = "<group>"; };
 		E9A156D1219325D70040ACF1 /* Black_Angry.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Black_Angry.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -232,7 +230,6 @@
 				E93645A52192BA8F00E659A2 /* Color.png */,
 				E936459E2192BA8300E659A2 /* Square_Black.png */,
 				E936459D2192BA8300E659A2 /* Square_Color.png */,
-				E99D0756218FE4CB00A9BFCD /* Unison.png */,
 			);
 			name = SampleStickers;
 			sourceTree = "<group>";
@@ -347,7 +344,6 @@
 				E93645AE2192BA8F00E659A2 /* Black_Angel.png in Resources */,
 				E9972CA82192F04A000DE65A /* Black_Hearteye.png in Resources */,
 				E9A156D2219325D70040ACF1 /* Black_Angry.png in Resources */,
-				E99D0757218FE4CB00A9BFCD /* Unison.png in Resources */,
 				8A27F11C1FD73DD0001B2BBD /* StickerPackTableViewCell.xib in Resources */,
 				E93645B12192BA8F00E659A2 /* Color.png in Resources */,
 				E93645AF2192BA8F00E659A2 /* Black_Facepalm.png in Resources */,
