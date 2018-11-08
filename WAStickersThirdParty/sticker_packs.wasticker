@@ -1,0 +1,88 @@
+{
+    "ios_app_store_link" : "",
+    "android_play_store_link" : "",
+    "sticker_packs" : [
+    {
+        "identifier": "billionfong",
+        "name": "billionfong",
+        "publisher": "Billy Fong",
+        "tray_image_file" : "Billy.png",
+        "publisher_website" : "www.billionfong.com",
+        "privacy_policy_website" : "",
+        "license_agreement_website" : "",
+        "stickers": [
+        {
+            "image_file": "Black_Angel.png",
+            "emojis": ["😇"]
+        },
+        {
+            "image_file": "Black_Angry.png",
+            "emojis": ["😡"]
+        },
+        {
+            "image_file": "Black_Cry.png",
+            "emojis": ["😢"]
+        },
+        {
+            "image_file": "Black_Drooling.png",
+            "emojis": ["🤤"]
+        },
+        {
+            "image_file": "Black_Facepalm.png",
+            "emojis": ["🤦‍♂️"]
+        },
+        {
+            "image_file": "Black_Hearteye.png",
+            "emojis": ["😍"]
+        },
+        {
+            "image_file": "Black_Kissheart.png",
+            "emojis": ["😘"]
+        },
+
+        {
+            "image_file": "Black_Laughcry.png",
+            "emojis": ["😂"]
+        },
+        {
+            "image_file": "Black_Questionmark.png",
+            "emojis": ["❓"]
+        },
+        {
+            "image_file": "Black_Sunglasses.png",
+            "emojis": ["😎"]
+        },
+        {
+            "image_file": "Black_Sweat.png",
+            "emojis": ["😅"]
+        },
+        {
+            "image_file": "Black_Think.png",
+            "emojis": ["🤔"]
+        },
+        {
+            "image_file": "Black_zzZ.png",
+            "emojis": ["😴"]
+        },
+        {
+            "image_file": "Black.png",
+            "emojis": ["🌚"]
+        },
+        {
+            "image_file": "Color.png",
+            "emojis": ["🌝"]
+        },
+        {
+            "image_file": "Square_Black.png",
+            "emojis": ["🌑"]
+        },
+        {
+            "image_file": "Square_Color.png",
+            "emojis": ["🌕"]
+        },
+        {
+            "image_file": "Unison.png",
+            "emojis": ["😡"]
+        }]
+    }]
+}
