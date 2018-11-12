@@ -24,8 +24,16 @@
             "emojis": ["😢"]
         },
         {
+            "image_file": "Black_Cry2.png",
+            "emojis": ["😭"]
+        },
+        {
             "image_file": "Black_Drooling.png",
             "emojis": ["🤤"]
+        },
+        {
+            "image_file": "Black_Evil.png",
+            "emojis": ["😈"]
         },
         {
             "image_file": "Black_Facepalm.png",
