@@ -47,10 +47,13 @@
             "image_file": "Black_Kissheart.png",
             "emojis": ["😘"]
         },
-
         {
             "image_file": "Black_Laughcry.png",
             "emojis": ["😂"]
+        },
+        {
+            "image_file": "Black_LunarNewYear.png",
+            "emojis": ["🧧"]
         },
         {
             "image_file": "Black_Questionmark.png",

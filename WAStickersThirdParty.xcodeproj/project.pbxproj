@@ -38,6 +38,7 @@
 		8ABEBD8421029767005F348C /* WebP.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8ABEBD8321029766005F348C /* WebP.framework */; };
 		8ACB6A981FE9CB7700A564BB /* Limits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ACB6A971FE9CB7700A564BB /* Limits.swift */; };
 		8ADA60761FD71F69006C9BBA /* AllStickerPacksViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ADA60751FD71F69006C9BBA /* AllStickerPacksViewController.swift */; };
+		E92BC0A7220943F000D47A57 /* Black_LunarNewYear.png in Resources */ = {isa = PBXBuildFile; fileRef = E92BC0A6220943F000D47A57 /* Black_LunarNewYear.png */; };
 		E936459F2192BA8300E659A2 /* Square_Color.png in Resources */ = {isa = PBXBuildFile; fileRef = E936459D2192BA8300E659A2 /* Square_Color.png */; };
 		E93645A02192BA8300E659A2 /* Square_Black.png in Resources */ = {isa = PBXBuildFile; fileRef = E936459E2192BA8300E659A2 /* Square_Black.png */; };
 		E93645AD2192BA8F00E659A2 /* Black.png in Resources */ = {isa = PBXBuildFile; fileRef = E93645A12192BA8F00E659A2 /* Black.png */; };
@@ -121,6 +122,7 @@
 		8ABEBD8321029766005F348C /* WebP.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = WebP.framework; sourceTree = "<group>"; };
 		8ACB6A971FE9CB7700A564BB /* Limits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Limits.swift; sourceTree = "<group>"; };
 		8ADA60751FD71F69006C9BBA /* AllStickerPacksViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AllStickerPacksViewController.swift; sourceTree = "<group>"; };
+		E92BC0A6220943F000D47A57 /* Black_LunarNewYear.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Black_LunarNewYear.png; sourceTree = "<group>"; };
 		E936459D2192BA8300E659A2 /* Square_Color.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Square_Color.png; sourceTree = "<group>"; };
 		E936459E2192BA8300E659A2 /* Square_Black.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Square_Black.png; sourceTree = "<group>"; };
 		E93645A12192BA8F00E659A2 /* Black.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Black.png; sourceTree = "<group>"; };
@@ -227,6 +229,7 @@
 				E9972CA32192F04A000DE65A /* Black_Hearteye.png */,
 				E9972C9F2192F04A000DE65A /* Black_Kissheart.png */,
 				E93645A62192BA8F00E659A2 /* Black_Laughcry.png */,
+				E92BC0A6220943F000D47A57 /* Black_LunarNewYear.png */,
 				E93645A42192BA8F00E659A2 /* Black_Questionmark.png */,
 				E9972CA22192F04A000DE65A /* Black_Sunglasses.png */,
 				E9972CA12192F04A000DE65A /* Black_Sweat.png */,
@@ -360,6 +363,7 @@
 				E93D841F2199959A00F8AA14 /* Black_Cry2.png in Resources */,
 				E93645B02192BA8F00E659A2 /* Black_Questionmark.png in Resources */,
 				E936459F2192BA8300E659A2 /* Square_Color.png in Resources */,
+				E92BC0A7220943F000D47A57 /* Black_LunarNewYear.png in Resources */,
 				E9972CA62192F04A000DE65A /* Black_Sweat.png in Resources */,
 				8A22EE0B1F9A9F40003A7F21 /* Assets.xcassets in Resources */,
 				8A27F1311FD9E987001B2BBD /* LinkTableViewCell.xib in Resources */,
