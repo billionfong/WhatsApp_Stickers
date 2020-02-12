@@ -64,6 +64,10 @@
             "emojis": ["🧧"]
         },
         {
+            "image_file": "Black_Mask.png",
+            "emojis": ["😷"]
+        },
+        {
             "image_file": "Black_Questionmark.png",
             "emojis": ["❓"]
         },

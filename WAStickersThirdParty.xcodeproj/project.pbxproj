@@ -61,6 +61,7 @@
 		E9972CA72192F04A000DE65A /* Black_Sunglasses.png in Resources */ = {isa = PBXBuildFile; fileRef = E9972CA22192F04A000DE65A /* Black_Sunglasses.png */; };
 		E9972CA82192F04A000DE65A /* Black_Hearteye.png in Resources */ = {isa = PBXBuildFile; fileRef = E9972CA32192F04A000DE65A /* Black_Hearteye.png */; };
 		E9A156D2219325D70040ACF1 /* Black_Angry.png in Resources */ = {isa = PBXBuildFile; fileRef = E9A156D1219325D70040ACF1 /* Black_Angry.png */; };
+		E9AD203123F4833200522F29 /* Black_Mask.png in Resources */ = {isa = PBXBuildFile; fileRef = E9AD203023F4833200522F29 /* Black_Mask.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -147,6 +148,7 @@
 		E9972CA22192F04A000DE65A /* Black_Sunglasses.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Black_Sunglasses.png; sourceTree = "<group>"; };
 		E9972CA32192F04A000DE65A /* Black_Hearteye.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Black_Hearteye.png; sourceTree = "<group>"; };
 		E9A156D1219325D70040ACF1 /* Black_Angry.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Black_Angry.png; sourceTree = "<group>"; };
+		E9AD203023F4833200522F29 /* Black_Mask.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Black_Mask.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -236,6 +238,7 @@
 				E9972C9F2192F04A000DE65A /* Black_Kissheart.png */,
 				E93645A62192BA8F00E659A2 /* Black_Laughcry.png */,
 				E92BC0A6220943F000D47A57 /* Black_LunarNewYear.png */,
+				E9AD203023F4833200522F29 /* Black_Mask.png */,
 				E93645A42192BA8F00E659A2 /* Black_Questionmark.png */,
 				E9972CA22192F04A000DE65A /* Black_Sunglasses.png */,
 				E9972CA12192F04A000DE65A /* Black_Sweat.png */,
@@ -371,6 +374,7 @@
 				E93645B02192BA8F00E659A2 /* Black_Questionmark.png in Resources */,
 				E936459F2192BA8300E659A2 /* Square_Color.png in Resources */,
 				E92BC0A7220943F000D47A57 /* Black_LunarNewYear.png in Resources */,
+				E9AD203123F4833200522F29 /* Black_Mask.png in Resources */,
 				E9972CA62192F04A000DE65A /* Black_Sweat.png in Resources */,
 				8A22EE0B1F9A9F40003A7F21 /* Assets.xcassets in Resources */,
 				E93AE97B23B31D460029843D /* Black_Christmas.png in Resources */,
