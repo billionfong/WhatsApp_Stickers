@@ -96,11 +96,15 @@
             "emojis": ["🌝"]
         },
         {
+            "image_file": "greenHat.png",
+            "emojis": ["👒"]
+        },
+        {
             "image_file": "Square_Black.png",
             "emojis": ["🌑"]
         },
         {
-            "image_file": "Square_Color.png",
+            "image_file": "Square_Color_Rotate.webp",
             "emojis": ["🌕"]
         }]
     }]
